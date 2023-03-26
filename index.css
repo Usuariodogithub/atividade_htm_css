@@ -1,0 +1,28 @@
+table ,tr,td{
+    margin-top:;
+    border: 2px solid gray;
+
+}
+
+   
+table, h1{
+    background-color: rgb(157, 255, 0);
+    float: inline-end;
+    font-style: italic;
+    text-align: center;
+}
+table, h3{
+    background-color: rgb(173, 24, 93);
+    float: left;
+    font-style: italic;
+    text-align: center;
+}
+footer{
+    background-color: brown;
+    font-size: 30px;
+}
+body{
+
+    font-size: medium;
+    margin:200px;
+}
